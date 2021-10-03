@@ -18,9 +18,11 @@ Link : https://github.com/MSetiawan2005/Tugas-IncrementalGames.git
 
 Android : 
 
-link Releases : https://github.com/MSetiawan2005/Tugas-ImplementasiFirebase/releases/tag/v0.0.1
+link Releases : https://github.com/MSetiawan2005/Tugas-ImplementasiFirebase/releases/tag/v0.0.1 
 
-Unzip -> Install APK -> Play
+Link Android.zip : https://github.com/MSetiawan2005/Tugas-ImplementasiFirebase/blob/Cloud-SetupAndFireAnalytics/Build-IncrementalGameAndroid.zip
+
+Unzip > Install APK > Play
 
 ## Daftar Branch:
 
