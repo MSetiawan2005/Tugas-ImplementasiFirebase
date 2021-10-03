@@ -16,9 +16,12 @@ Link : https://github.com/MSetiawan2005/Tugas-IncrementalGames.git
 
 ## Build Download
 
-Android : 
+Build Android & Standalone
 
-link Releases : https://github.com/MSetiawan2005/Tugas-ImplementasiFirebase/releases/tag/v0.0.1 
+link Releases : 
+
+- https://github.com/MSetiawan2005/Tugas-ImplementasiFirebase/releases/tag/v0.0.1 
+- https://github.com/MSetiawan2005/Tugas-ImplementasiFirebase/releases
 
 Link Android.zip : https://github.com/MSetiawan2005/Tugas-ImplementasiFirebase/blob/Cloud-SetupAndFireAnalytics/Build-IncrementalGameAndroid.zip
 
