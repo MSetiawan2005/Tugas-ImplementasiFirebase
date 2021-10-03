@@ -16,6 +16,8 @@ Don't forget to ⭐️ this project
 ## Build Download
 
 Android : 
+
+    - https://github.com/MSetiawan2005/Tugas-ImplementasiFirebase/releases/tag/v0.0.1
     -
 
 Unzip -> Install APK -> Play
